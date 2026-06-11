@@ -1,5 +1,7 @@
-Multi Chatting
+# Multi Chatting
+
   Logic Flow
+  
     1. Enter > BroadCast "Enter Player" to EveryOne
     2. Chatting With Inner Player
     3. Can Play Using "Baseball" Keyword ( Every In Player Participate Automatically without in Game Player )
